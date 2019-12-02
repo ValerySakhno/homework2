@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+}
+.n1{
+  
+    height: 24vh;
+    background: orange;
+}
+.n2{
+    height: 24vh;
+    background: yellow;
+}
+.n3{
+height: 24vh;
+background: blue;
+}
+.n4{
+    height: 24vh;
+    background: grey;
+}

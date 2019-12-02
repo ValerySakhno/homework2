@@ -1,0 +1,32 @@
+body {
+    background: white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.z1     {background: white;
+    margin: auto auto;
+    width: 700px;
+    height: 700px;
+    border: solid 5px black;}
+
+.z2{
+    position: absolute;
+    background: red;
+    width: 250px;
+    height: 250px;
+}
+.z3{
+    position: relative;
+    background: blue;
+    float: right;
+    width: 250px;
+    height: 250px;
+    top: 450px;
+}
+.z4{
+    position: fixed;
+    background: green;
+    width: 400px;
+    height: 400px;
+    margin: 150px;
